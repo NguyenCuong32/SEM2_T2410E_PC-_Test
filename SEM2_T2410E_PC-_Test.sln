@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountApp", "BankAccountApp\BankAccountApp.csproj", "{F5047DDD-5C46-F2DB-3A6D-982315F99541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStoreApp", "MusicStoreApp\MusicStoreApp.csproj", "{00A30088-EB45-8A97-90F2-7A8C5BA7C957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5047DDD-5C46-F2DB-3A6D-982315F99541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5047DDD-5C46-F2DB-3A6D-982315F99541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5047DDD-5C46-F2DB-3A6D-982315F99541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5047DDD-5C46-F2DB-3A6D-982315F99541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A30088-EB45-8A97-90F2-7A8C5BA7C957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A30088-EB45-8A97-90F2-7A8C5BA7C957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A30088-EB45-8A97-90F2-7A8C5BA7C957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A30088-EB45-8A97-90F2-7A8C5BA7C957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6DDE7B4-6E5D-4E21-8B6A-87FA740EFC73}
+	EndGlobalSection
+EndGlobal
