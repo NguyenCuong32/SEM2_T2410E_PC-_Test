@@ -1,0 +1,15 @@
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/bin/Debug/net8.0/MusicStoreApp
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/bin/Debug/net8.0/MusicStoreApp.deps.json
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/bin/Debug/net8.0/MusicStoreApp.runtimeconfig.json
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/bin/Debug/net8.0/MusicStoreApp.dll
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/bin/Debug/net8.0/MusicStoreApp.pdb
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.AssemblyInfoInputs.cache
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.AssemblyInfo.cs
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.csproj.CoreCompileInputs.cache
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.sourcelink.json
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.dll
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/refint/MusicStoreApp.dll
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.pdb
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/MusicStoreApp.genruntimeconfig.cache
+/Users/phamvu/2410E/SEM2_T2410E_PC-_Test/ConsoleApp1/MusicStoreApp/obj/Debug/net8.0/ref/MusicStoreApp.dll
