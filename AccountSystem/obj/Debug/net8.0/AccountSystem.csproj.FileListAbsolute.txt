@@ -1,0 +1,9 @@
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\bin\Debug\net8.0\AccountSystem.exe
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.AssemblyInfoInputs.cache
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.AssemblyInfo.cs
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.csproj.CoreCompileInputs.cache
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.sourcelink.json
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.dll
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\refint\AccountSystem.dll
+D:\T2410E\examc#\SEM2_T2410E_PC-_Test\AccountSystem\obj\Debug\net8.0\AccountSystem.pdb
