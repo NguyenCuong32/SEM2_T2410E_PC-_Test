@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\bin\Debug\net8.0\AssignmentSet01.exe
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\bin\Debug\net8.0\AssignmentSet01.deps.json
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\bin\Debug\net8.0\AssignmentSet01.runtimeconfig.json
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\bin\Debug\net8.0\AssignmentSet01.dll
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\bin\Debug\net8.0\AssignmentSet01.pdb
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.AssemblyInfo.cs
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.sourcelink.json
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.dll
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\refint\AssignmentSet01.dll
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.pdb
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\AssignmentSet01.genruntimeconfig.cache
+C:\Users\Admin\Documents\final1809\SEM2_T2410E_PC-_Test\AssignmentSet01\obj\Debug\net8.0\ref\AssignmentSet01.dll
