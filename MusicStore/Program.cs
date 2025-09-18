@@ -5,8 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.OutputEncoding = System.Text.Encoding.UTF8;
-
         List<Instrument> instruments = new List<Instrument>()
             {
                 new Guitar("Yamaha Guitar", 2020, 6),
