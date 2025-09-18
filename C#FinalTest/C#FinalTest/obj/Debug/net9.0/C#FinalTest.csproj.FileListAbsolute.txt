@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\bin\Debug\net9.0\C#FinalTest.exe
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\bin\Debug\net9.0\C#FinalTest.deps.json
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\bin\Debug\net9.0\C#FinalTest.runtimeconfig.json
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\bin\Debug\net9.0\C#FinalTest.dll
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\bin\Debug\net9.0\C#FinalTest.pdb
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.AssemblyInfo.cs
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.dll
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\refint\C#FinalTest.dll
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.pdb
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\C#FinalTest.genruntimeconfig.cache
+C:\Users\admin\Downloads\C#FinalTest\C#FinalTest\obj\Debug\net9.0\ref\C#FinalTest.dll
