@@ -1,0 +1,14 @@
+C:\Users\admin\ExamProject\Csharp_Final_test\bin\Debug\net9.0\Csharp_Final_test.exe
+C:\Users\admin\ExamProject\Csharp_Final_test\bin\Debug\net9.0\Csharp_Final_test.deps.json
+C:\Users\admin\ExamProject\Csharp_Final_test\bin\Debug\net9.0\Csharp_Final_test.runtimeconfig.json
+C:\Users\admin\ExamProject\Csharp_Final_test\bin\Debug\net9.0\Csharp_Final_test.dll
+C:\Users\admin\ExamProject\Csharp_Final_test\bin\Debug\net9.0\Csharp_Final_test.pdb
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.AssemblyInfoInputs.cache
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.AssemblyInfo.cs
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.csproj.CoreCompileInputs.cache
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.dll
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\refint\Csharp_Final_test.dll
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.pdb
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\Csharp_Final_test.genruntimeconfig.cache
+C:\Users\admin\ExamProject\Csharp_Final_test\obj\Debug\net9.0\ref\Csharp_Final_test.dll
