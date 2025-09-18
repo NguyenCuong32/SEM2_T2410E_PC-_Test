@@ -1,0 +1,15 @@
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\bin\Debug\net9.0\BankAndMusicApp.exe
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\bin\Debug\net9.0\BankAndMusicApp.deps.json
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\bin\Debug\net9.0\BankAndMusicApp.runtimeconfig.json
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\bin\Debug\net9.0\BankAndMusicApp.dll
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\bin\Debug\net9.0\BankAndMusicApp.pdb
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.AssemblyInfoInputs.cache
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.AssemblyInfo.cs
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.csproj.CoreCompileInputs.cache
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.sourcelink.json
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.dll
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\refint\BankAndMusicApp.dll
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.pdb
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\BankAndMusicApp.genruntimeconfig.cache
+C:\Users\GCN\Downloads\Test_sem2\SEM2_T2410E_PC-_Test\c#\obj\Debug\net9.0\ref\BankAndMusicApp.dll
