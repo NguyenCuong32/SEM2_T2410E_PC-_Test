@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\bin\Debug\net8.0\MusicStore.exe
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\bin\Debug\net8.0\MusicStore.deps.json
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\bin\Debug\net8.0\MusicStore.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\bin\Debug\net8.0\MusicStore.dll
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\bin\Debug\net8.0\MusicStore.pdb
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.sourcelink.json
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.dll
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\refint\MusicStore.dll
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.pdb
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\MusicStore.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\SEM2_T2410E_PC-_Test\MusicStore\obj\Debug\net8.0\ref\MusicStore.dll
